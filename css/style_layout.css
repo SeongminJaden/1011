@@ -1,0 +1,41 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+	overflow: hidden;
+    font-family: 'Open Sans', sans-serif;
+    }
+	.layout{
+        width: 100%;
+        height: 100%;
+    }
+	.top{
+		width: 100%;
+		height: 3vw;
+		background-color: #2a2e32;
+	}
+	.top .topimg{
+		float: left;
+		height: 100%;
+		width: 5%;
+		text-align: center;
+	}
+    .main .left-menu{
+		float: left;
+		width: 11%;
+		height: 100%;
+        background-color: #37475a;
+		overflow: auto;
+	}
+    .main .content{
+		float: left;
+		width: 89%;
+		height: 100%;
+		background-color: #ececf4;
+		overflow: auto;
+	}
+	::-webkit-scrollbar {
+		display: none;
+	  }

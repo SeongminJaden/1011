@@ -1,0 +1,84 @@
+
+	.main .left-menu .profile{
+		text-align: center;
+		height: 12vw;
+		margin: 0 auto;
+	}
+	.profile > img{
+		margin: 1%;
+		width: 8vw;
+		max-width : 100%
+	  }
+	.profile > h3{
+		color: #ffffff;
+		font-weight: 400;
+		font-size: 1vw;
+	}
+	.left-menu .nav1{
+		padding-left:1.2vw;
+		padding-top: 1vw;
+		line-height: 1.9vw;
+		text-align: left;
+		font-weight: 350;
+		font-size: 0.8vw;
+		color: #ffffff;
+		height: 6.5vw;
+		position: relative;
+	}
+	.nav1 .a{
+		margin-top: 0.1vh;
+		position: relative;
+	}
+	.nav1 .p{
+		margin-top: 0.1vh;
+	}
+	a:link { color:#999999; }
+	a:visited { color:#999999; }
+	a:hover{color:#00baff;}
+	.left-menu .nav2{
+		height: 68vw;
+	}
+	.menu{
+		padding-top: 1vw;
+		line-height: 1vw;
+		text-align: left;
+		font-weight: 350;
+		font-size: 0.8vw;
+		position: relative;
+	}
+	.menu > a{
+		padding-left: 1vw;
+		padding-bottom: 1vw;
+	}
+	.menu > p{
+		padding-left: 1vw;
+		padding-bottom: 0.5vw;		
+		color:#ffffff;
+		cursor: Pointer;
+	}
+	.menu .hide{
+		display:none;
+		text-align: left;
+		font-weight: 350;
+		font-size: 0.8vw;
+		background-color: #3c3d4e;
+		position: relative;
+	}
+	.hide.active {
+		display:flex;
+	   }
+	.hide > li{
+		padding-left: 1vw;
+		padding-top: 0.5vw;
+	}
+	.com3 .home{
+		font-weight: bold;
+		font-size: 10vw;
+		word-break: normal;
+		color: #1f274d;
+	}
+	span{
+		font-weight: lighter;
+		font-size: 100%;
+        color: #293155;
+      }		

@@ -1,0 +1,203 @@
+.main .content .info2{
+    float: left;
+    width: 50%;
+    height: 92%;
+}
+.info2 .data1{
+    width: 94%;
+    height: 44%;
+    border: 2px solid #d3d3d3;
+    margin: 2% 4% 2% 2%;
+    background-color: #ffffff;
+}
+.info2 .data2{
+    width: 94%;
+    height: 44%;
+    border: 2px solid #d3d3d3;
+    margin: 2% 4% 4% 2%;
+    background-color: #ffffff;
+}
+.info2 .data1 .text{
+    width: 100%;
+    height: 10%;
+}
+.info2 .data2 .text{
+    width: 100%;
+    height: 10%;
+}
+.info2 .data1 .icon{
+    width: 100%;
+    height: 10%;
+}	
+.info2 .data2 .icon{
+    width: 100%;
+    height: 10%;
+}
+.info2 .data1 .summary{
+    float: left;
+    width: 46.5%;
+    height: 90%;
+}
+.info2 .data1 .line{
+    float: left;
+    width: 4%;
+    margin-top: 2%;
+    height: 80%;
+    border-left : 2px solid #dcdcdc;
+}
+.info2 .data1 .chart{
+    float: left;
+    width: 46.5%;
+    height: 90%;
+}
+.data1 .img{
+    width: 100%;
+    height: 80%;
+}
+.img > img{
+    padding-top: 5%;
+    margin: 5%;
+    width: 90%;
+}
+.data1 .name{
+    width: 100%;
+    height: 20%;
+    text-align : center;
+    color: #777777;
+    font-weight: bold;
+    font-size: 20px;
+}
+.chart .chart_data{
+    width: 100%;
+    height: 80%;
+    padding-top: 20px;
+}
+.chart_data .document{
+    text-align : center;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 3px;
+}
+.chart_data .essential{
+    text-align : center;
+    font-weight: bold;
+    font-size: 13px;
+    padding-left:10px;
+    padding-right:10px;
+}
+.chart_data .recommend{
+    text-align : left;
+    font-weight: bold;
+    font-size: 13px;
+}
+.chart .day{
+    width: 100%;
+    height: 20%;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+    color : #777777;
+}
+.day_span{
+    color : #6cb77e;
+}
+.info2 .data2 .chart1{
+    float: left;
+    width: 40%;
+    height: 90%;
+}
+.info2 .data2 .line{
+    float: left;
+    width: 4%;
+    margin-top: 2%;
+    height: 80%;
+    border-left : 2px solid #dcdcdc;
+}
+.info2 .data2 .chart2{
+    float: left;
+    width: 56%;
+    height: 90%;
+}
+.data2 .chart2 > table{
+    width: 100%;
+    height: 90%;
+    padding: 10px;
+}
+.chart2 > table .in_charge{
+    text-align : left;
+    font-weight: bold;
+    font-size: 13px;
+}
+.chart2 > table .contents{
+    text-align : center;
+    font-weight: bold;
+    font-size: 13px;
+}
+.chart2 > table .date{
+    text-align : center;
+    font-weight: bold;
+    font-size: 13px;
+}
+.chart2 > table .day_of_the_week{
+    text-align : center;
+    font-weight: bold;
+    font-size: 13px;
+}
+.data2 .chart2 .button{
+    width: 100%;
+    height: 10%;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color : #777777;
+}
+.data2 .chart1 > table{
+    width: 100%;
+    height: 55%;
+    padding: 10px;
+}
+.chart1 > table .division{
+    font-weight: bold;
+    text-align: center;
+    color : #000000;
+    
+}
+.chart1 > table .company{
+    font-weight: bold;
+    text-align: left;
+    color : #777777;
+}
+.chart1 > table .vaule{
+    font-weight: bold;
+    text-align: right;
+    color : #777777;
+}
+.vaule .day_span{
+    font-size: 20px;
+    font-weight: bold;
+    color : #777777;
+}
+.info2 .drawing{
+    width: 94%;
+    height: 94%;
+    border: 2px solid #d3d3d3;
+    margin: 2% 4% 4% 2%;
+    background-color: #ffffff;
+}
+.info2 .title{
+    width: 100%;
+    height: 5%;
+    border-bottom: 2px solid #d3d3d3;
+    padding: 5px 0px 5px 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.info2 .contents{
+    width: 100%;
+    height: 95%;
+}
+#drawing {
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+}
